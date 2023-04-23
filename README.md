@@ -46,4 +46,4 @@ Visual Studio Code is a text editor. If you haven't used a text editor before, i
 
 Finally, spend about 15-20 minutes looking through personal and professional websites for your 
 
-# &rarr 1: Basic principles for websites
+# &rarr; 1: Basic principles for websites
