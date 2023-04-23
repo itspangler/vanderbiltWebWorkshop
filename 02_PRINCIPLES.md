@@ -16,8 +16,6 @@ In small groups, I want us to take about 15 minutes to reflect on the website ex
 
 Use these 15 minutes to try and develop a set of principles for personal websites. Generate as many or as few as you like, and pick a spokesperson to share with the larger group when we return.
 
----
-
 ## Some more website/web presence examples
 
 - [Amber Bosse](https://www.mapbosse.com/links)
@@ -26,6 +24,8 @@ Use these 15 minutes to try and develop a set of principles for personal website
 - [Bill Rankin](http://www.radicalcartography.net/)
 - [Carolyn Finney](https://www.carolynfinney.com/)
 - [Taylor Shelton](https://taylorshelton.info/)
+
+> If you're ever curious about the technologies and libraries that were used to compile a website, try out the [Wappalyzer extension](https://www.wappalyzer.com/). Makes it really easy to see what websites are built with!
 
 ---
 

@@ -55,7 +55,7 @@ To commit and push in GitHub Desktop, simply add a summary and description to yo
 
 This will send your changes to the GitHub "cloud," so to speak. In fact, if you return to your repo online, you should see that all those files have been uploaded, along with a description of what was changed and a timestamp for when the changes were pushed.
 
-![Changes to the repo after commit-push workflow](media/updatedRepo.png)
+![Changes to the repo after commit-push workflow](media/updatedRepo.png)  
 
 ---  
   
@@ -63,4 +63,4 @@ You're halfway there! Now that you have a template website set up, the next step
 
 ---
 
-# &rarr; [4: Testing and deploying your site](DEPLOY.md)
+# &rarr; [4: Testing and deploying your site](04_DEPLOY.md)
