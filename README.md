@@ -1,6 +1,6 @@
-# Table of contents
+## Table of contents
 
----
+---<br>
 
 1. [Before the workshop...](BEFORE.md)
     1. [GitHub](BEFORE.md/#create-a-github-account-and-download-github-desktop)
@@ -24,4 +24,4 @@
 
 ---
 
-# &rarr; [1: Basic principles for websites](PRINCIPLES.md)
+# &rarr; [1: Before the workshop...](BEFORE.md)
