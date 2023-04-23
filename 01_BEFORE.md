@@ -2,6 +2,10 @@
 title: 1. Before the workshop...
 ---
 
+# Before the workshop...
+
+---
+
 Please try to do the following:  
 
 - [ ] [Create an GitHub account](https://github.com/join)
@@ -38,5 +42,5 @@ Some questions you might reflect on:
 I tend to think a good website allows you to answer all of these questions easily.
 
 ---  
-
-# &rarr; [2: Principles for personal websites...](02_PRINCIPLES.md)
+### &larr; [1: Introduction](README.md)
+# &rarr; [2: Principles for personal websites](02_PRINCIPLES.md)

@@ -62,5 +62,5 @@ This will send your changes to the GitHub "cloud," so to speak. In fact, if you 
 You're halfway there! Now that you have a template website set up, the next steps are to make that content yours, and then serve it out for others to view. Both are easy to do with the tools you already have.
 
 ---
-
+### &larr; [3: Ingredients for building your own site from scratch](03_INGREDIENTS.md)
 # &rarr; [4: Testing and deploying your site](04_DEPLOY.md)

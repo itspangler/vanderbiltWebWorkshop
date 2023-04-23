@@ -2,6 +2,8 @@
 title: 4. Testing and deploying your site
 ---
 
+---
+
 ## See it live with VS Code
 
 Any time you need to edit your website, you'll use VS Code. Like most text editors, VS Code has a handy plugin for seeing your work "live" in a local development server. Basically, this means you can see changes to your website reflected in real time as you make those changes in your text editor.
@@ -66,5 +68,5 @@ Now you can share your site widely!
 ---
 
 ---
-
+### &larr; [4: Testing and deploying your site](04_DEPLOY.md)
 # &rarr; [5: Wrap-up](05_WRAP.md)

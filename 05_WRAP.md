@@ -1,6 +1,8 @@
 ---
-title: 5. Wrap-up
+title: 5. Parting thoughts
 ---
+
+By way of conclusion, here are some other points that you might return to as you consider how to build a personal website.
 
 ---
 
@@ -23,11 +25,15 @@ Once your website's published, you might notice that you have trouble getting it
 
 ### GitHub Pages + Jekyll
 
-If all you need is a simple landing page, you can follow the instructions on the Pages tab of GitHub's settings to render a simple [Markdown](https://www.markdownguide.org/getting-started/) file as a static site. [Learn more here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll).
+This guide was built using GitHub Pages and [Jekyll](https://jekyllrb.com/), a static site generator. Static site generators parse plain text files---often [Markdown](https://www.markdownguide.org/getting-started/) files, which are a bit more human readable and intuitive than HTML---as fully rendered HTML. This removes the need for you to fuss around with raw HTML and CSS. Thankfully, GitHub Pages integrates automatically with Jekyll, making it relatively easy to spin up a site like the one you're reading.
+
+In addition to this one, GitHub Pages supports [twelve other themes](https://pages.github.com/themes/) out of the box. If you want to create your site using a Jekyll theme instead of Bootstrap, you can follow the [instructions on GitHub for getting started with GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll). You could even try [cloning this repo](https://github.com/itspangler/vanderbiltWebWorkshop), publishing it via GitHub Pages, and then remixing the content to suit your needs. Themes are set in the `_config.yml` file.
+
+Note that Jekyll is not officially supported for Windows.
 
 ### WordPress, Wix, and SquareSpace
 
-Where the GitHub model is free, you'll need to pay a monthly rate for each of these options. They each have their pros and cons.
+Where the GitHub Pages model is free, you'll need to pay a monthly rate for something like WordPress, Wix, or SquareSpace. They each have their pros and cons.
 
 WordPress is the cheapest and most popular---something like 40% of the web is built on WordPress---but it's also a regular victim of security breaches and data leaks.
 

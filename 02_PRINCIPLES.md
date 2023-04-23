@@ -2,6 +2,8 @@
 title: 2. Principles for personal websites
 ---
 
+# Principles for personal websites
+
 ---
 
 ## Share out from website exercise
@@ -24,9 +26,10 @@ Based on the personal websites you found, collaboratively develop a set of princ
 - [Bill Rankin](http://www.radicalcartography.net/)
 - [Carolyn Finney](https://www.carolynfinney.com/)
 - [Taylor Shelton](https://taylorshelton.info/)
+- [Jack Gieseking](http://jgieseking.org/)
 
 > If you're ever curious about the technologies and libraries that were used to compile a website, try out the [Wappalyzer extension](https://www.wappalyzer.com/). Makes it really easy to see what websites are built with!
 
 ---
-
+### &larr; [2: Principles for personal websites](02_PRINCIPLES.md)
 # &rarr; [3: Ingredients for building your own site from scratch](03_INGREDIENTS.md)

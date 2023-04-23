@@ -23,8 +23,10 @@ If you have any questions or see something that doesn't look right, please shoot
     1. [See it live with VS Code](04_DEPLOY.md/#see-it-live-with-vs-code)
     2. [Make it yours with VS Code](04_DEPLOY.md/#make-it-yours-with-vs-code)
     3. [Make it real with GitHub Pages](04_DEPLOY.md/#make-it-real-with-github-pages)
-    4. [Extras: Domain names, search engine optimization, and websites-as-a-service](04_DEPLOY.md/#extras-domain-names-search-engine-optimization-and-websites-as-a-service)
-5. [Wrap-up](05_WRAP.md)  
+5. [Wrap-up](05_WRAP.md)
+    1. [Domain names](05_WRAP.md/#domain-names)
+    2. [Search engine optimization](05_WRAP.md/#search-engine-optimization)
+    3. [Turnkey alternatives to building from scratch](05_WRAP.md/#turnkey-alternatives-to-building-from-scratch)
 
 ---  
 
