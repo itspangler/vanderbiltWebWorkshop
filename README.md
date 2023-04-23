@@ -1,8 +1,6 @@
 ---
-title: Principles for personal websites
+title: Table of contents
 ---
-
-## Table of contents
 
 ---
 
@@ -12,8 +10,9 @@ title: Principles for personal websites
     3. [Website exercise](BEFORE.md/#website-exercise)
 2. [Basic principles for websites](PRINCIPLES.md)
     1. [Share out from website exercise](PRINCIPLES.md/#share-out-from-website-exercise)
-3. Ingredients for building your own site from scratch
-    1. Creating a repository
+    2. [Some more website/web presence examples](PRINCIPLES.md/#some-more-websiteweb-presence-examples)
+3. [Ingredients for building your own site from scratch](INGREDIENTS.md)
+    1. Creating a GitHub repository
     2. Finding a template with Bootstrap
     3. Understanding HTML and CSS
 4. Deploying your site
