@@ -13,9 +13,9 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-  - PRINCIPLES.md
-  - BEFORE.md
-  - INGREDIENTS.md
-  - DEPLOY.md
-  - WRAP.md
+  - 01_BEFORE.md
+  - 02_PRINCIPLES.md
+  - 03_INGREDIENTS.md
+  - 04_DEPLOY.md
+  - 05_WRAP.md
 theme: minima
