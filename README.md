@@ -1,13 +1,13 @@
 ## Table of contents
 
----<br>
+---
 
 1. [Before the workshop...](BEFORE.md)
     1. [GitHub](BEFORE.md/#create-a-github-account-and-download-github-desktop)
     2. [VS Code](BEFORE.md/#vs-code)
     3. [Website exercise](BEFORE.md/#website-exercise)
 2. [Basic principles for websites](PRINCIPLES.md)
-    1. Share out from website exercise
+    1. [Share out from website exercise](PRINCIPLES.md/#share-out-from-website-exercise)
     2. Why do we need a web presence?
     3. Websites and academic legibility
 3. Ingredients for building your own site from scratch

@@ -33,3 +33,4 @@ Some questions you might reflect on:
 - how do they tell their story?
 
 ---
+# &rarr; [2: Principles for personal websites...](BEFORE.md)
