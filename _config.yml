@@ -1,5 +1,4 @@
-title: Being Online
-subtitle: A Workshop on Building Your Own Websites
+title: 'Being Online: A Workshop on Building Your Own Websites'
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -14,4 +13,5 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - PRINCIPLES.md
 theme: minima

@@ -1,4 +1,4 @@
-1. [Pre-workshop preparation](#pre-workshop-preparation)
+1. [Before the workshop...](#before-the-workshop)
     1. [GitHub](#github)
         1. [Optional: *The Coding Train*](#optional-the-coding-train)
     2. [VS Code](#vs-code)
@@ -19,32 +19,32 @@
     5. Extras: Domain names and search engine optimization (SEO)
 5. Wrap-up
 
-# Pre-workshop preparation
+---
 
-Before we meet, spend a bit of time doing the following things:
+# Before the workshop...
+
+Please try to do the following:
 - [ ] [Create an GitHub account](https://github.com/join)
 - [ ] [Download GitHub Desktop](https://desktop.github.com/)
 - [ ] [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [ ] [Complete the website exercise](#website-exercise)
 
-## GitHub
+## Create a GitHub Account
 
-GitHub is a platform that tracks changes to a directory. It's really handy for building your own websites because it allows you to host content online for free, and then serve that content as a static website. In fact, you're reading 
+GitHub is a platform that tracks changes to a directory. It's really handy for building your own websites because it allows you to both host content online for free and serve that content as a static website (like the one you're reading now).
 
-Before the workshop on 5/2, spend a few 
+Before the workshop on 5/2, navigate to GitHub and [create an account](https://github.com/join). You should also [download the desktop client](https://desktop.github.com/), GitHub Desktop.
 
 ### Optional: *The Coding Train*
 
 If you want, check out Dan Shiffman's introductory videos for using GitHub, "[GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)." We won't go into GitHub in great detail here, but he will, and it is a useful skill to have no matter what kind of work you do. You can find him at *The Coding Train* on YouTube.
 
-# VS Code
+## VS Code
 
 Visual Studio Code is a text editor. If you haven't used a text editor before, it basically combines the functionality of something like Microsoft Word (a word processor) with your file finder (Finder on Mac, or File Explorer on Windows).
 
-# Website exercise
+[Download VS Code](https://code.visualstudio.com/download) 
+
+## Website exercise
 
 Spend about 15-20 minutes skimming through some websites 
-
-# Ingredients for building your own site from scratch
-
-# 
