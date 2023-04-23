@@ -30,6 +30,11 @@ For the purposes of this workshop, just find a chunk of text that
 
 ![Editing the website with real-time updates in VS Code](media/liveEdits.gif)
 
+<details>
+  <summary>OPTIONAL: Style the colors</summary>
+
+### Messing with the template using CSS
+
 HTML is closely related to CSS---short for cascading style sheet---a language containing instructions for the style in which documents will be presented. HTML tells a browser what kind of content will appear on a page and where that content will go, and then CSS adds all the flavor: colors, fonts, sizes, and so on.
 
 If you want to change these features, you'll need to fuss with the `css/styles.css` file. That file is huge, but it's also really well structured. Once you understand what's going on inside it, changing the details becomes less intimidating.
@@ -38,12 +43,31 @@ Let's say we want to change the orange colors in this theme to green. To do so, 
 
 That orange color is currently being set by a field `--bs-primary-rgb`. Removing the orange color is as easy as replacing the current RGB values with ours. Using `cmd+f` on a Mac or `ctrl+f` on a Windows, search for `--bs-primary-rgb` and replace `244, 98, 58` with `32, 74, 30`. Save your changes, and voila!
 
+![Changing background from orange to green in the styles.css file](media/green.gif)
 
+Notice that the button still remains orange. That's because it's being set by a different parameter. To determine where that parameter is being set, we can open the inspector in our web browser of choice. As a Google Chrome user, I right click on the page and click `Inspect`. When I hover my cursor over the button and click it, the inspector reveals where that color is being set: in the `btn-primary` class.
 
+If I hop over to VS Code and search for `btn-primary` in the `styles.css` file, it quickly finds the place where I can change the color. VS Code even has a handy color picker built into the editor that you can use.
+
+![Changing buttons from orange to green in the styles.css file](media/greenButton.gif)
+
+</details>
 
 ## Make it real with GitHub Pages
 
-## Extras: Domain names, search engine optimization, and websites-as-a-service
+In order to actually serve your page as a website, you need to configure it with GitHub Pages. Thankfully, this entire process can be completed within the GitHub web client.
+
+Navigate back to your personal website repo in the GitHub web client, and click `Settings`. From there, click `Pages` in the left-hand sidebar. Within the "Build and Deployment" section, you'll see a message that says "GitHub Pages is currently disabled." To change that, change the Branch from `None` to `Main` and click `Save`.
+
+![Configuring your site with GitHub Pages](media/githubPages.gif)
+
+It might take a minute for the site to generate, but keep refreshing the page. When the site is ready, a message will appear with a stable URL to your new site:
+
+![Success message!](media/site.png)
+
+Now you can share your site widely!
+
+---
 
 ---
 
