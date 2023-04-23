@@ -1,5 +1,5 @@
 ---
-title: Before the workshop...
+title: 1. Before the workshop...
 ---
 
 Please try to do the following:

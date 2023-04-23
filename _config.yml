@@ -16,4 +16,6 @@ include:
   - PRINCIPLES.md
   - BEFORE.md
   - INGREDIENTS.md
+  - DEPLOY.md
+  - WRAP.md
 theme: minima

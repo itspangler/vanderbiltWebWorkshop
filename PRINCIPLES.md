@@ -1,5 +1,5 @@
 ---
-title: Principles for personal websites
+title: 2. Principles for personal websites
 ---
 
 ---
