@@ -24,11 +24,11 @@ If you have any questions or see something that doesn't look right, please shoot
     2. [Connect to the repo with GitHub Desktop](03_INGREDIENTS.md/#connect-to-the-repo-with-github-desktop)
     3. [Finding a template with Bootstrap](03_INGREDIENTS.md/#finding-a-template-with-bootstrap)
 4. [Testing and deploying your site](04_DEPLOY.md)
-    2. See it live
-    3. Make it yours
-4. Make it real
-    5. Extras: Domain names and search engine optimization (SEO)
-5. Wrap-up  
+    1. [See it live with VS Code](04_DEPLOY.md/#see-it-live-with-vs-code)
+    2. [Make it yours with VS Code](04_DEPLOY.md/#make-it-yours-with-vs-code)
+    3. [Make it real with GitHub Pages](04_DEPLOY.md/#make-it-real-with-github-pages)
+    4. [Extras: Domain names, search engine optimization, and websites-as-a-service](04_DEPLOY.md/#extras-domain-names-search-engine-optimization-and-websites-as-a-service)
+5. [Wrap-up](05_WRAP.md)  
 
 ---  
 

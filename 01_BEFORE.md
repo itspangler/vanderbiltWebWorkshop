@@ -39,4 +39,4 @@ I tend to think a good website allows you to answer all of these questions easil
 
 ---  
 
-# &rarr; [2: Principles for personal websites...](PRINCIPLES.md)
+# &rarr; [2: Principles for personal websites...](02_PRINCIPLES.md)
