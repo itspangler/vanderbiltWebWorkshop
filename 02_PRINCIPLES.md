@@ -6,7 +6,7 @@ title: 2. Principles for personal websites
 
 ## Share out from website exercise
 
-In small groups, I want us to take about 15 minutes to reflect on the website exercise that you did in preparation for this workshop. Here were the following questions I asked you to bear in mind:
+In small groups, I want you to take about 15 minutes to reflect on the website exercise that you did in preparation for this workshop. Here were the questions I asked you to bear in mind:
 
 - is it easy to navigate the site?
 - is there anything unique to this site?
@@ -14,9 +14,9 @@ In small groups, I want us to take about 15 minutes to reflect on the website ex
 - what's important to this person?
 - how do they tell their story?
 
-Use these 15 minutes to try and develop a set of principles for personal websites. Generate as many or as few as you like, and pick a spokesperson to share with the larger group when we return.
+Based on the personal websites you found, collaboratively develop a set of principles for what makes a compelling personal website. What kind of info should be included or left out? Generate as many or as few principles as you like, and pick a spokesperson to share with the larger group when we return.
 
-## Some more website/web presence examples
+## Some website/web presence examples
 
 - [Amber Bosse](https://www.mapbosse.com/links)
 - [kathy wu](https://kaaathy.com/#)
