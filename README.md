@@ -1,7 +1,3 @@
-# Being Online: A Workshop on Building Your Own Websites
-
-# Table of Contents
-
 1. [Pre-workshop preparation](#pre-workshop-preparation)
     1. [GitHub](#github)
         1. [Optional: *The Coding Train*](#optional-the-coding-train)
