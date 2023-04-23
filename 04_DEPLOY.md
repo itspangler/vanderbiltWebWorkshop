@@ -33,7 +33,7 @@ For the purposes of this workshop, just find a chunk of text that
 <details>
   <summary>OPTIONAL: Style the colors</summary>
 
-<h3 id="messing-with-the-template-using-css"><span class="header-section-number">0.0.1</span> Messing with the template using CSS</h3>
+<h3 id="messing-with-the-template-using-css"><span class="header-section-number"></span> Messing with the template using CSS</h3>
 <p>HTML is closely related to CSS—short for cascading style sheet—a language containing instructions for the style in which documents will be presented. HTML tells a browser what kind of content will appear on a page and where that content will go, and then CSS adds all the flavor: colors, fonts, sizes, and so on.</p>
 <p>If you want to change these features, you’ll need to fuss with the <code>css/styles.css</code> file. That file is huge, but it’s also really well structured. Once you understand what’s going on inside it, changing the details becomes less intimidating.</p>
 <p>Let’s say we want to change the orange colors in this theme to green. To do so, we need to replace all instances of the orange color with a green color of our choosing. I’m going to go with the dark green <code>32, 74, 30</code> as identified by its RGB values. (Try <a href="https://colorbrewer2.org/#type=sequential&amp;scheme=BuGn&amp;n=3">ColorBrewer</a> for choosing a pleasing color palette. It’s for maps, but works for all kinds of design.)</p>
