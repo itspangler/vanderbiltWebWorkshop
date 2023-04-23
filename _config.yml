@@ -14,4 +14,6 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - PRINCIPLES.md
+  - BEFORE.md
+  - INGREDIENTS.md
 theme: minima

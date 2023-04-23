@@ -1,4 +1,6 @@
-# Before the workshop...
+---
+title: Before the workshop...
+---
 
 Please try to do the following:
 - [ ] [Create an GitHub account](https://github.com/join)
@@ -32,5 +34,8 @@ Some questions you might reflect on:
 - what's important to this person?
 - how do they tell their story?
 
+I tend to think a good website allows you to answer all of these questions easily.
+
 ---
-# &rarr; [2: Principles for personal websites...](BEFORE.md)
+
+# &rarr; [2: Principles for personal websites...](PRINCIPLES.md)
