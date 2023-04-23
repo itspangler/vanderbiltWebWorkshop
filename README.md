@@ -36,7 +36,7 @@ GitHub really handy for building your own websites because it allows you to both
 
 Navigate to GitHub and [create an account](https://github.com/join). You should also [download the desktop client](https://desktop.github.com/), GitHub Desktop.
 
-> To learn more about GitHub, you can optionally check out Dan Shiffman's introductory videos for using GitHub, "[GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)." We won't go into GitHub in great detail during this workshop, but it's a useful thing to know. Dan explains it in plain terms for a non-technical audience.
+> **OPTIONALLY...** You can check out Dan Shiffman's introductory videos for using GitHub, "[GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)," to learn more about GitHub, version control, and how it might be useful for you. We won't go into GitHub in great detail during this workshop, but Dan explains it in plain terms without a ton of technical jargon.
 
 ## VS Code
 
@@ -46,5 +46,5 @@ Visual Studio Code is a text editor. If you haven't used a text editor before, i
 
 Finally, spend about 15-20 minutes looking through personal and professional websites for your 
 
-|   | # &rarr; [1: Basic principles for websites](PRINCIPLES.md)  |
+|   | &rarr; [1: Basic principles for websites](PRINCIPLES.md)  |
 |---|---|
