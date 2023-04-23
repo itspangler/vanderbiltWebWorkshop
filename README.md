@@ -1,3 +1,5 @@
+# Table of contents
+
 1. [Before the workshop...](#before-the-workshop)
     1. [GitHub](#github)
     2. [VS Code](#vs-code)
@@ -55,6 +57,5 @@ Some questions you might reflect on:
 - how do they tell their story?
 
 ---
-|
-|:---:|
-|&rarr; [1: Basic principles for websites](PRINCIPLES.md)
+
+&rarr; [1: Basic principles for websites](PRINCIPLES.md)
