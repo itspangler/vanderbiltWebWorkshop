@@ -4,14 +4,14 @@ title: 1. Before the workshop...
 
 # Before the workshop...
 
----
-
 Please try to do the following:  
 
 - [ ] [Create an GitHub account](https://github.com/join)
 - [ ] [Download GitHub Desktop](https://desktop.github.com/)
 - [ ] [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [ ] [Complete the website exercise](#website-exercise)
+
+---
 
 ## Create a GitHub Account and download GitHub Desktop
 

@@ -2,6 +2,8 @@
 title: 3. Ingredients for building your own site from scratch
 ---
 
+# Ingredients for building your own site from scratch
+
 ---  
 
 ## Creating a new repository with GitHub

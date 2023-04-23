@@ -2,6 +2,8 @@
 title: 5. Parting thoughts
 ---
 
+# Parting thoughts
+
 By way of conclusion, here are some other points that you might return to as you consider how to build a personal website.
 
 ---
@@ -40,3 +42,5 @@ WordPress is the cheapest and most popular---something like 40% of the web is bu
 I've never used Wix or SquareSpace, so I'll refrain from advising on them. Just know that they are options.
 
 ---
+
+# Return to Table of Contents

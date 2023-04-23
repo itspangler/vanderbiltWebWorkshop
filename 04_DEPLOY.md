@@ -2,6 +2,8 @@
 title: 4. Testing and deploying your site
 ---
 
+# Testing and deploying your site
+
 ---
 
 ## See it live with VS Code
