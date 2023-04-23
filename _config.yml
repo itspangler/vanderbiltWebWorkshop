@@ -5,17 +5,12 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - CONTRIBUTING.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
   - 00_INTRO.md
   - 01_BEFORE.md
   - 02_PRINCIPLES.md
   - 03_INGREDIENTS.md
   - 04_DEPLOY.md
   - 05_WRAP.md
+exclude:
+  - README.md
 theme: minima

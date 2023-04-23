@@ -1,5 +1,5 @@
 ---
-title: Welcome to the workshop!
+title: Welcome!
 ---
 
-Get started at the [introduction](00_INTRO.md).
+# &rarr; [Introduction](00_INTRO.md).
