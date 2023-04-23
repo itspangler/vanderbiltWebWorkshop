@@ -20,13 +20,26 @@ A little radio button with the words "Go Live" should appear on the bar at the b
 
 ## Make it yours with VS Code
 
-VS Code's Live Server extension makes it easy to see edits to your website in real time.
+You can use VS Code's Live Server extension to edit your website and view what those changes will look like in real time.
 
-Note that the URL of your locally-served version of the template is suffixed with `index.html`. When an HTTP client requests a URL that points to a directory structure instead of an actual web page within the directory structure, the web server will generally serve a default page, which is often named `index.html`.
+To get started editing your site, open the `index.html` file in your repo. HTML, or hypertext markup language, is one of the fundamental building blocks of the internet. HTML provides structure and content to a website, so if you want to change the way your website looks, start with `index.html`. (You can read more about [`index.html` files and web directory structure here](https://en.wikipedia.org/wiki/Web_server_directory_index).)
 
-Go ahead and open the `index.html` file in VS Code. It contains all of the structural ingredients that comprise the web page. 
+If you've never edited raw HTML before, this might feel a little intimidating. It's beyond the scope of this workshop to discuss how to edit HTML in detail, but Mozilla has excellent introductory docs for [getting started with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started).
+
+For the purposes of this workshop, just find a chunk of text that 
 
 ![Editing the website with real-time updates in VS Code](media/liveEdits.gif)
+
+HTML is closely related to CSS---short for cascading style sheet---a language containing instructions for the style in which documents will be presented. HTML tells a browser what kind of content will appear on a page and where that content will go, and then CSS adds all the flavor: colors, fonts, sizes, and so on.
+
+If you want to change these features, you'll need to fuss with the `css/styles.css` file. That file is huge, but it's also really well structured. Once you understand what's going on inside it, changing the details becomes less intimidating.
+
+Let's say we want to change the orange colors in this theme to green. To do so, we need to replace all instances of the orange color with a green color of our choosing. I'm going to go with the dark green `32, 74, 30` as identified by its RGB values. (Try [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) for choosing a pleasing color palette. It's for maps, but works for all kinds of design.)
+
+That orange color is currently being set by a field `--bs-primary-rgb`. Removing the orange color is as easy as replacing the current RGB values with ours. Using `cmd+f` on a Mac or `ctrl+f` on a Windows, search for `--bs-primary-rgb` and replace `244, 98, 58` with `32, 74, 30`. Save your changes, and voila!
+
+
+
 
 ## Make it real with GitHub Pages
 
