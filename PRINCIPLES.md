@@ -1,2 +1,2 @@
-# 1. Basic principles for websites
+# Basic principles for websites
 
