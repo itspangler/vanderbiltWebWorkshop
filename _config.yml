@@ -5,12 +5,11 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - README.md
   - 00_INTRO.md
   - 01_BEFORE.md
   - 02_PRINCIPLES.md
   - 03_INGREDIENTS.md
   - 04_DEPLOY.md
   - 05_WRAP.md
-exclude:
-  - README.md
 theme: minima
