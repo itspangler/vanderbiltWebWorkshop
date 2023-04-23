@@ -33,23 +33,19 @@ For the purposes of this workshop, just find a chunk of text that
 <details>
   <summary>OPTIONAL: Style the colors</summary>
 
-### Messing with the template using CSS
-
-HTML is closely related to CSS---short for cascading style sheet---a language containing instructions for the style in which documents will be presented. HTML tells a browser what kind of content will appear on a page and where that content will go, and then CSS adds all the flavor: colors, fonts, sizes, and so on.
-
-If you want to change these features, you'll need to fuss with the `css/styles.css` file. That file is huge, but it's also really well structured. Once you understand what's going on inside it, changing the details becomes less intimidating.
-
-Let's say we want to change the orange colors in this theme to green. To do so, we need to replace all instances of the orange color with a green color of our choosing. I'm going to go with the dark green `32, 74, 30` as identified by its RGB values. (Try [ColorBrewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) for choosing a pleasing color palette. It's for maps, but works for all kinds of design.)
-
-That orange color is currently being set by a field `--bs-primary-rgb`. Removing the orange color is as easy as replacing the current RGB values with ours. Using `cmd+f` on a Mac or `ctrl+f` on a Windows, search for `--bs-primary-rgb` and replace `244, 98, 58` with `32, 74, 30`. Save your changes, and voila!
-
-![Changing background from orange to green in the styles.css file](media/green.gif)
-
-Notice that the button still remains orange. That's because it's being set by a different parameter. To determine where that parameter is being set, we can open the inspector in our web browser of choice. As a Google Chrome user, I right click on the page and click `Inspect`. When I hover my cursor over the button and click it, the inspector reveals where that color is being set: in the `btn-primary` class.
-
-If I hop over to VS Code and search for `btn-primary` in the `styles.css` file, it quickly finds the place where I can change the color. VS Code even has a handy color picker built into the editor that you can use.
-
-![Changing buttons from orange to green in the styles.css file](media/greenButton.gif)
+<h3 id="messing-with-the-template-using-css"><span class="header-section-number">0.0.1</span> Messing with the template using CSS</h3>
+<p>HTML is closely related to CSS—short for cascading style sheet—a language containing instructions for the style in which documents will be presented. HTML tells a browser what kind of content will appear on a page and where that content will go, and then CSS adds all the flavor: colors, fonts, sizes, and so on.</p>
+<p>If you want to change these features, you’ll need to fuss with the <code>css/styles.css</code> file. That file is huge, but it’s also really well structured. Once you understand what’s going on inside it, changing the details becomes less intimidating.</p>
+<p>Let’s say we want to change the orange colors in this theme to green. To do so, we need to replace all instances of the orange color with a green color of our choosing. I’m going to go with the dark green <code>32, 74, 30</code> as identified by its RGB values. (Try <a href="https://colorbrewer2.org/#type=sequential&amp;scheme=BuGn&amp;n=3">ColorBrewer</a> for choosing a pleasing color palette. It’s for maps, but works for all kinds of design.)</p>
+<p>That orange color is currently being set by a field <code>--bs-primary-rgb</code>. Removing the orange color is as easy as replacing the current RGB values with ours. Using <code>cmd+f</code> on a Mac or <code>ctrl+f</code> on a Windows, search for <code>--bs-primary-rgb</code> and replace <code>244, 98, 58</code> with <code>32, 74, 30</code>. Save your changes, and voila!</p>
+<figure>
+<img src="media/green.gif" alt="Changing background from orange to green in the styles.css file" /><figcaption aria-hidden="true">Changing background from orange to green in the styles.css file</figcaption>
+</figure>
+<p>Notice that the button still remains orange. That’s because it’s being set by a different parameter. To determine where that parameter is being set, we can open the inspector in our web browser of choice. As a Google Chrome user, I right click on the page and click <code>Inspect</code>. When I hover my cursor over the button and click it, the inspector reveals where that color is being set: in the <code>btn-primary</code> class.</p>
+<p>If I hop over to VS Code and search for <code>btn-primary</code> in the <code>styles.css</code> file, it quickly finds the place where I can change the color. VS Code even has a handy color picker built into the editor that you can use.</p>
+<figure>
+<img src="media/greenButton.gif" alt="Changing buttons from orange to green in the styles.css file" /><figcaption aria-hidden="true">Changing buttons from orange to green in the styles.css file</figcaption>
+</figure>
 
 </details>
 

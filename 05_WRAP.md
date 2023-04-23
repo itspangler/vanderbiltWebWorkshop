@@ -2,6 +2,8 @@
 title: 5. Wrap-up
 ---
 
+---
+
 ## Domain names
 
 GitHub automatically generates a pretty crisp domain name, but if you want one that is truly your own, you unfortunately will have to pony up for it. I pay GoDaddy for my domain name. It's not terribly expensive, and they usually give you some kind of deal for the first year or two.
