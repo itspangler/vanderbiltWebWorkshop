@@ -5,9 +5,9 @@
 1. [Pre-workshop preparation](#pre-workshop-preparation)
     1. [GitHub](#github)
         1. [Optional: *The Coding Train*](#optional-the-coding-train)
-    2. [VS Code]
+    2. [VS Code](#vs-code)
     3. Website exercise
-2. Basic principles for websites
+2. [Basic principles for websites](PRINCIPLES.md)
     1. Share out from website exercise
     2. Why do we need a web presence?
     3. Websites and academic legibility
@@ -43,11 +43,11 @@ If you want, check out Dan Shiffman's introductory videos for using GitHub, "[Gi
 
 # VS Code
 
+Visual Studio Code is a text editor. If you haven't used a text editor before, it basically combines the functionality of something like Microsoft Word (a word processor) with your file finder (Finder on Mac, or File Explorer on Windows).
+
 # Website exercise
 
 Spend about 15-20 minutes skimming through some websites 
-
-# Basic principles for websites
 
 # Ingredients for building your own site from scratch
 
