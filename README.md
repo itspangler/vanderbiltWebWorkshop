@@ -1,3 +1,7 @@
+# Being Online: A Workshop on Building Your Own Websites
+
+# Table of Contents
+
 1. [Pre-workshop preparation](#pre-workshop-preparation)
     1. [GitHub](#github)
         1. [Optional: *The Coding Train*](#optional-the-coding-train)
@@ -19,7 +23,7 @@
     5. Extras: Domain names and search engine optimization (SEO)
 5. Wrap-up
 
-## Pre-workshop preparation
+# Pre-workshop preparation
 
 Before we meet, spend a bit of time doing the following things:
 - [ ] [Create an GitHub account](https://github.com/join)
@@ -27,9 +31,9 @@ Before we meet, spend a bit of time doing the following things:
 - [ ] [Download Visual Studio Code](https://code.visualstudio.com/download)
 - [ ] [Complete the website exercise](#website-exercise)
 
-### GitHub
+## GitHub
 
-GitHub is a platform that tracks changes to a directory. It's really handy for building your own websites because it allows you to host content online for free.
+GitHub is a platform that tracks changes to a directory. It's really handy for building your own websites because it allows you to host content online for free, and then serve that content as a static website. In fact, this 
 
 Before the workshop on 5/2, spend a few 
 
@@ -37,14 +41,14 @@ Before the workshop on 5/2, spend a few
 
 If you want, check out Dan Shiffman's introductory videos for using GitHub, "[GitHub for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY)." We won't go into GitHub in great detail here, but he will, and it is a useful skill to have no matter what kind of work you do. You can find him at *The Coding Train* on YouTube.
 
-### VS Code
+# VS Code
 
-### Website exercise
+# Website exercise
 
 Spend about 15-20 minutes skimming through some websites 
 
-## Basic principles for websites
+# Basic principles for websites
 
-## Ingredients for building your own site from scratch
+# Ingredients for building your own site from scratch
 
-## 
+# 
