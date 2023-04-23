@@ -33,7 +33,7 @@ Before we meet, spend a bit of time doing the following things:
 
 ## GitHub
 
-GitHub is a platform that tracks changes to a directory. It's really handy for building your own websites because it allows you to host content online for free, and then serve that content as a static website. In fact, this 
+GitHub is a platform that tracks changes to a directory. It's really handy for building your own websites because it allows you to host content online for free, and then serve that content as a static website. In fact, you're reading 
 
 Before the workshop on 5/2, spend a few 
 
