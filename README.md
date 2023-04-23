@@ -24,7 +24,10 @@
 ## Pre-workshop preparation
 
 Before we meet, spend a bit of time doing the following things:
-- [ ] sign up 
+- [ ] [Create an GitHub account](https://github.com/join)
+- [ ] [Download GitHub Desktop](https://desktop.github.com/)
+- [ ] [Download Visual Studio Code](https://code.visualstudio.com/download)
+- [ ] Complete the [website exercise](#website-exercise)
 
 ### GitHub
 
@@ -40,7 +43,7 @@ If you want, check out Dan Shiffman's introductory videos for using GitHub, "[Gi
 
 ### Website exercise
 
-Also before 
+Spend about 15-20 minutes skimming through some websites 
 
 ## Basic principles for websites
 
