@@ -8,7 +8,7 @@ title: 4. Testing and deploying your site
 
 ## See it live with VS Code
 
-Any time you need to edit your website, you'll use VS Code. Like most text editors, VS Code has a handy plugin for seeing your work "live" in a local development server. Basically, this means you can see changes to your website reflected in real time as you make those changes in your text editor.
+Any time you need to edit your website, you'll use VS Code. Like most text editors, VS Code has a handy plugin for seeing your work "live" in a local development server, before it hits the internet. Basically, this means you can see changes to your website reflected in real time as you make those changes in your text editor.
 
 Let's begin by loading your personal website repo as a VS Code workspace. (The word `workspace` has a specific definition in VS Code-speak, and while that definition won't matter a ton for our purposes, you can [learn more about it here](https://code.visualstudio.com/docs/editor/workspaces).)
 
