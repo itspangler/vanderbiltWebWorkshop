@@ -25,7 +25,9 @@ Navigate to GitHub and [create an account](https://github.com/join). You should 
 
 ## VS Code
 
-Visual Studio Code is a text editor. If you haven't used a text editor before, it basically combines the functionality of something like Microsoft Word (a word processor) with your file finder (Finder on Mac, or File Explorer on Windows). Importantly, it allows you to view a version of a website on your local machine, which is the interface you'll use to edit your website. Before we meet, [download it here](https://code.visualstudio.com/download).
+Visual Studio Code is a text editor. If you haven't used a text editor before, it basically combines the functionality of a word processor (like Microsoft Word) with your file finder (Finder on Mac, or File Explorer on Windows).
+
+Importantly, VS Code also provides "live server" functionality. Basically, this means you can see changes to your website reflected in real time as you make those changes in your text editor. Before we meet, [download VS Code](https://code.visualstudio.com/download).
 
 ## Website exercise
 

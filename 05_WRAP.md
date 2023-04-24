@@ -43,4 +43,4 @@ I've never used Wix or SquareSpace, so I'll refrain from advising on them. Just 
 
 ---
 
-# [Return to Table of Contents](README.md)
+# &larr; [Return to Table of Contents](README.md)

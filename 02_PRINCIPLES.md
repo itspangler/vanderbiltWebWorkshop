@@ -31,5 +31,5 @@ Based on the personal websites you found, collaboratively develop a set of princ
 > If you're ever curious about the technologies and libraries that were used to compile a website, try out the [Wappalyzer extension](https://www.wappalyzer.com/). Makes it really easy to see what websites are built with!
 
 ---
-### &larr; [2: Principles for personal websites](02_PRINCIPLES.md)
+### &larr; [1: Before the workshop](01_BEFORE.md)
 # &rarr; [3: Ingredients for building your own site from scratch](03_INGREDIENTS.md)
