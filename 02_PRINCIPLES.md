@@ -16,7 +16,9 @@ In small groups, I want you to take about 15 minutes to reflect on the website e
 - what's important to this person?
 - how do they tell their story?
 
-Based on the personal websites you found, collaboratively develop a set of principles for what makes a compelling personal website. What kind of info should be included or left out? Generate as many or as few principles as you like, and pick a spokesperson to share with the larger group when we return.
+Share some examples of websites that left an impression on you, noting where possible what kinds of tools, technologies, and softwares were used to build the site. Then, **collaboratively develop a set of principles for what makes a compelling personal website**. What kind of info should be included or left out? What kinds of design choices are useful to you as a visitor to the page?
+
+Generate as many or as few principles as you like, and prepare to share back with the larger group when we return.
 
 ## Some website/web presence examples
 
@@ -27,6 +29,8 @@ Based on the personal websites you found, collaboratively develop a set of princ
 - [Carolyn Finney](https://www.carolynfinney.com/)
 - [Taylor Shelton](https://taylorshelton.info/)
 - [Jack Gieseking](http://jgieseking.org/)
+- [Forrest Hangen](https://forresthangen.com/)
+- [Cecilia Smith](https://www.ceciliasmith.org/)
 
 > If you're ever curious about the technologies and libraries that were used to compile a website, try out the [Wappalyzer extension](https://www.wappalyzer.com/). Makes it really easy to see what websites are built with!
 
