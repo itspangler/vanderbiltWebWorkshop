@@ -65,4 +65,4 @@ You're halfway there! Now that you have a template website set up, the next step
 
 ---
 ### &larr; [2. Principles for personal websites](02_PRINCIPLES.md)
-# &rarr; [4: Testing and deploying your site](04_DEPLOY.md)
+### &rarr; [4: Testing and deploying your site](04_DEPLOY.md)

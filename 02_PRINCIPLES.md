@@ -32,4 +32,4 @@ Based on the personal websites you found, collaboratively develop a set of princ
 
 ---
 ### &larr; [1: Before the workshop](01_BEFORE.md)
-# &rarr; [3: Ingredients for building your own site from scratch](03_INGREDIENTS.md)
+### &rarr; [3: Ingredients for building your own site from scratch](03_INGREDIENTS.md)

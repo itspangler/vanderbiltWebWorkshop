@@ -30,4 +30,4 @@ If you have any questions or see something that doesn't look right, please shoot
 
 ---  
 
-# &rarr; [1: Before the workshop...](01_BEFORE.md)
+### &rarr; [1: Before the workshop...](01_BEFORE.md)

@@ -71,4 +71,4 @@ Now you can share your site widely!
 
 ---
 ### &larr; [3: Ingredients for building your own site from scratch](03_INGREDIENTS.md)
-# &rarr; [5: Wrap-up](05_WRAP.md)
+### &rarr; [5: Wrap-up](05_WRAP.md)
